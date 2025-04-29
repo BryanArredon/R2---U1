@@ -14,10 +14,16 @@ Ejercicio 1 Monitoreo de Temperatura y Alarma y Visual
 
 Evidencias
 |-|
-[Link Video](https://drive.google.com/file/d/1U1cgEYSfb4P9j-qB9fBN44gUtDpOoFNI/view?usp=sharing)|
+[Link Video Actividad 1](https://drive.google.com/file/d/1U1cgEYSfb4P9j-qB9fBN44gUtDpOoFNI/view?usp=sharing)|
+
+[Link Video Actividad 2](https://drive.google.com/file/d/1FjYT23kaDpKYMROOt_xkd0Fgzg-kKj2_/view?usp=sharing)|
+
 
 Codigo de funcionamiento del prototipo
 [Link Codigo utilizado](https://github.com/BryanArredon/R2---U1/blob/main/DTH11.py)
+
+[Link Codigo utilizado NodeRed](https://github.com/BryanArredon/R2---U1/blob/main/DTH11-NodeRed.py)
+
 
 
 
