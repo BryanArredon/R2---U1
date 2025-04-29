@@ -11,5 +11,5 @@ Evidencias
 
 Parte Practica 
 Ejercicio 1 Monitoreo de Temperatura y Alarma y Visual
-
+|-|-|
 |Evidencias|[Link Video](https://drive.google.com/file/d/1U1cgEYSfb4P9j-qB9fBN44gUtDpOoFNI/view?usp=sharing)|
