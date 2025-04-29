@@ -1,30 +1,30 @@
-# Recuperacion 2 Unidad 1 Adquisiciones de IoT
-# Aplicaciones para IoT
-Bryan Emilio Arredondo López 
-GDS0653 - 1223100380
+# 🌐 Recuperación 2 - Unidad 1: Adquisiciones de IoT  
+## Aplicaciones para IoT  
 
+**Nombre:** Bryan Emilio Arredondo López  
+**Grupo:** GDS0653  
+**Número de Control:** 1223100380  
 
-Parte teorica NetAcad Python Fundamentals 2 
-Evidencias
-|-|
-|![image](https://github.com/BryanArredon/R2---U1/blob/main/imagen_2025-04-29_091514879.png)|
+---
 
-Parte Practica 
-Ejercicio 1 Monitoreo de Temperatura y Alarma y Visual
+## 📚 Parte Teórica: Fundamentos de Python en NetAcad
 
-Evidencias
-|-|
-[Link Video Actividad 1](https://drive.google.com/file/d/1U1cgEYSfb4P9j-qB9fBN44gUtDpOoFNI/view?usp=sharing)|
+### Evidencia
+![Evidencia Python Fundamentals](https://github.com/BryanArredon/R2---U1/blob/main/imagen_2025-04-29_091514879.png)
 
-[Link Video Actividad 2](https://drive.google.com/file/d/1FjYT23kaDpKYMROOt_xkd0Fgzg-kKj2_/view?usp=sharing)|
+---
 
+## 💻 Parte Práctica
 
-Codigo de funcionamiento del prototipo
-[Link Codigo utilizado](https://github.com/BryanArredon/R2---U1/blob/main/DTH11.py)
+### 🧪 Ejercicio 1: Monitoreo de Temperatura y Alarma Visual
 
-[Link Codigo utilizado NodeRed](https://github.com/BryanArredon/R2---U1/blob/main/DTH11-NodeRed.py)
+#### Descripción:
+Implementación de un sistema de monitoreo de temperatura con alarma visual utilizando sensores IoT.
 
+#### Vídeos de Evidencia:
+- [🎥 Video Actividad 1 (Google Drive)](https://drive.google.com/file/d/1U1cgEYSfb4P9j-qB9fBN44gUtDpOoFNI/view?usp=sharing)
+- [🎥 Video Actividad 2 (Google Drive)](https://drive.google.com/file/d/1FjYT23kaDpKYMROOt_xkd0Fgzg-kKj2_/view?usp=sharing)
 
-
-
-
+#### Código Fuente:
+- [📄 Código Principal (Sensor DHT11)](https://github.com/BryanArredon/R2---U1/blob/main/DTH11.py)
+- [📄 Código Integración Node-RED](https://github.com/BryanArredon/R2---U1/blob/main/DTH11-NodeRed.py)
